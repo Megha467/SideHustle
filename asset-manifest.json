@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meghacv.github.io/static/css/main.2ca2e477.css",
+    "main.js": "/meghacv.github.io/static/js/main.32f6536f.js",
+    "static/js/787.001e509f.chunk.js": "/meghacv.github.io/static/js/787.001e509f.chunk.js",
+    "index.html": "/meghacv.github.io/index.html",
+    "main.2ca2e477.css.map": "/meghacv.github.io/static/css/main.2ca2e477.css.map",
+    "main.32f6536f.js.map": "/meghacv.github.io/static/js/main.32f6536f.js.map",
+    "787.001e509f.chunk.js.map": "/meghacv.github.io/static/js/787.001e509f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca2e477.css",
+    "static/js/main.32f6536f.js"
+  ]
+}
